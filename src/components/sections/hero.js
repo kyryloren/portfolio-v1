@@ -104,6 +104,14 @@ function Hero() {
                     >
                       View Resume
                     </StyledButton>
+                    <StyledButton
+                      className="m-3"
+                      href="https://medium.com/@kyryloren"
+                      rel="noreferrer noopener"
+                      target="_blank"
+                    >
+                      Blog
+                    </StyledButton>
                   </Row>
                 </Col>
               </Row>
